@@ -1,6 +1,5 @@
 package Questao2;
 
-import Questao2.Sanduiche;
 import Questao2.Factory.SanduicheFactoryCg;
 import Questao2.Factory.SanduicheFactoryJp;
 import Questao2.Factory.SanduicheFactoryRt;
